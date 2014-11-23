@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">趣逑</string>
+    <string name="loading_text">正在努力加载中……</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
